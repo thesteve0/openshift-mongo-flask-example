@@ -1,7 +1,8 @@
 openshift-mongo-flask-example
 =============================
 
-= NOTE this will not work in the recent versions of OpenShift Online because the environment variables are not correct in myflaskapp.py. If you want to fix them and give me a pull request it would be much appreciated. K THX BYE
+NOTE this will not work in the recent versions of OpenShift Online because the environment variables are not correct in myflaskapp.py. If you want to fix them and give me a pull request it would be much appreciated. K THX BYE
+===============
 
 This is the code to go along with the [OpenShift blog piece](https://openshift.redhat.com/community/blogs/rest-web-services-with-python-mongodb-and-spatial-data-in-the-cloud) on how to use Flask (python) with MongoDB to create a REST like web service with spatial data
 
